@@ -4,4 +4,6 @@ Pobrać paczkę zip dodaną do repozyttoriów lub ściągnąć eza z: https://gi
 
 Rozpakować i skopiować plik eza do /usr/local/bin
 
-/usr/local/bin
+```bash
+sudo mv eza /usr/local/bin
+```
